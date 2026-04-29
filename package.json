@@ -1,0 +1,10 @@
+{
+  "name": "v-edge-internal-relay",
+  "version": "1.0.1",
+  "description": "Internal edge distribution module",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "echo 'No build required'"
+  }
+}
